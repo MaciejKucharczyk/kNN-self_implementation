@@ -1,1 +1,1 @@
-# kNN-self_implementation
+# kNN - self implementation
